@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1086319368777",
+    "firebase_url": "https://hack20-ffcde.firebaseio.com",
+    "project_id": "hack20-ffcde",
+    "storage_bucket": "hack20-ffcde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086319368777:android:abbcf9ba3ae50a7be1bd98",
+        "android_client_info": {
+          "package_name": "com.example.flutter_hackathon_2020_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086319368777-613n896048f380e52l2ic0l4ubklfd4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_hackathon_2020_app",
+            "certificate_hash": "cf47523a6e2ea9e75233b1716f967b9345eef1d7"
+          }
+        },
+        {
+          "client_id": "1086319368777-h6e8imsjiohqtv0jp4sf582kea10p3k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMbr4Bv5jSUMbVqukHDVjRac4a85jPne8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086319368777-h6e8imsjiohqtv0jp4sf582kea10p3k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
